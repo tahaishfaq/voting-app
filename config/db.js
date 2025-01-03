@@ -1,4 +1,4 @@
-// NPM Package
+
 const mongoose = require("mongoose");
 
 const connectDb = async () => {
